@@ -143,7 +143,7 @@ To get started with this project, follow these steps:
    pip install -r requirements.txt
    ```
 
-3. **Run the Jupyter notebooks or Python scripts** to train and evaluate the models.
+3. **Run the Python scripts** to train and evaluate the models.
 
 
 🔍 Feel free to explore, contribute, and give feedback. Happy coding! 🎉
