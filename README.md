@@ -1,7 +1,7 @@
 
-# 💰 Bitcoin Price Prediction Projects 💰
+# 💰 Bitcoin Price Prediction Project 💰
 
-Welcome to the **Bitcoin Price Prediction** repository. In this project, I'm diving into the exciting world of cryptocurrency, specifically predicting Bitcoin price movements using both Machine Learning and Deep Learning techniques.
+This project builds a Machine Learning model to predict Bitcoin price movements using Random Forest Classifier and LSTM. It includes the full pipeline of data collection, feature engineering, model training, prediction, and result visualization, all implemented in Python. By analyzing historical data from Yahoo Finance, the model aims to predict whether Bitcoin's price will rise or fall, offering valuable insights into cryptocurrency market trends.
 
 ## 🌟 Project Overview
 
